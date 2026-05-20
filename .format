@@ -1,0 +1,5 @@
+x="avani"
+y="python developer"
+print("{} got a {} role".format(x,y))
+
+print(f"{x} got a {y} role")
